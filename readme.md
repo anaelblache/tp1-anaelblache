@@ -77,3 +77,4 @@ On voit que l'arguement **-s** lors de la création du lien a changé le comport
 ## Exercice 4
 **3.** En utilisant la commande **source .bashrc**, on peut voir le style du terminal changer.
 **4.** Pour obtenir la forme demandé il faut écrire : **PS1='{$ debian_chroot:+($ debian_chroot)}\[\033[91m\][\A]\[\033[00m\] - \[\033[01;32m\]\u@\h\[\033[00m\\]:\[\033[36m\]\w\[\033[00m\]\$ '**
+## Fin du TP1
